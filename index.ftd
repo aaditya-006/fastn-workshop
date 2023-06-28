@@ -42,7 +42,7 @@ border-radius.px: 20
 -- ftd.column:
 
 -- ftd.text: $card.title
-role: $inherited.types.heading-medium
+role: $inherited.types.heading-large
 
 -- ftd.text: $card.description
 role: $inherited.types.copy-regular
