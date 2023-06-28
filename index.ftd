@@ -12,6 +12,9 @@ spacing.fixed.px: 20
 .. This page was developed using Fastn. you will get random image on  refreshing
 
 
+-- card: Swabhi😊
+.. HI my nane is swabhi
+
 -- end: ftd.column
 
 
@@ -42,7 +45,7 @@ border-radius.px: 20
 -- ftd.column:
 
 -- ftd.text: $card.title
-role: $inherited.types.heading-large
+role: $inherited.types.heading-medium
 
 -- ftd.text: $card.description
 role: $inherited.types.copy-regular
